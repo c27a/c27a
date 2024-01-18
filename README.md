@@ -1,16 +1,14 @@
-### Hi there 👋
+What do i need ?
+windows 11/10 also older
+winrar
 
-<!--
-**c27a/c27a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+how to dowload ?
+1.dowload the c27a.rar
+2.unpack the file
+3.Open the exe and enjoy
 
-Here are some ideas to get you started:
+made by c27a
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Not for illegal purpise only for
+testing stuffe 
+github/tos
